@@ -1,3 +1,9 @@
+Оригинальный репозиторий Hazelcast  
+https://github.com/hazelcast/hazelcast   
+
+Архитектура и Реверс инжинириг Hazelcast  
+https://drive.google.com/drive/folders/1wi_Kg5mKDUbftnNXPo442BOinxaSjmN6  
+
 # Hazelcast
 
 [![Slack](https://img.shields.io/badge/slack-chat-green.svg)](https://slack.hazelcast.com/) 
