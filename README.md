@@ -1,8 +1,8 @@
-Оригинальный репозиторий Hazelcast  
-https://github.com/hazelcast/hazelcast   
-
-Архитектура и Реверс инжинириг Hazelcast  
+Реверс инжиниринг архитектуры Hazelcast 
 https://drive.google.com/drive/folders/1wi_Kg5mKDUbftnNXPo442BOinxaSjmN6  
+
+Оригинальный репозиторий Hazelcast  
+https://github.com/hazelcast/hazelcast  
 
 # Hazelcast
 
